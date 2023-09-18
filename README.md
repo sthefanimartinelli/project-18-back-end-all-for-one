@@ -3,7 +3,7 @@
 
 O objetivo deste projeto foi praticar o uso de queries na linguagem SQL, utilizando o banco de dados relacional MySQL.
 
-Foi utilizado uma base de dados presente no arquivo northwind.sql e optou-se por utilizar contêiners para subir a aplicação. Foram criados arquivos no formato deasfionN.sql, sendo que cada um representa uma query executada no banco. Os demais arquivos foram desenvolvidos pela Trybe. 
+Foi utilizado a base de dados presente no arquivo northwind.sql e optou-se por utilizar contêiners para subir a aplicação. Foram criados arquivos no formato deasfionN.sql, sendo que cada um representa uma query executada no banco. Os demais arquivos foram desenvolvidos pela Trybe. 
 
 Também utilizou-se o Workbench para visualização das tabelas e queries.
 
