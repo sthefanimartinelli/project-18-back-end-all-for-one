@@ -13,9 +13,6 @@ Também utilizou-se o Workbench para visualização das tabelas e queries.
 - docker exec -it all_for_one bash
 - npm install
 
-### Observação: 
-As credencias de acesso ao banco de dados estão definidas no arquivo docker-compose.yml.
-
 ### Requisitos do projeto:
 | Requisito | Descrição |
 |-----------|-----------|
